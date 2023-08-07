@@ -1,0 +1,143 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691310050/uploads/dnn5nn8g9qnb5g8gwirx.webp",
+      "category": "2",
+      "name": "[Preorder] Kamisato Ayaka Impression Folding Umbrella (Aug 2023)",
+      "price": 3232222,
+      "text": "Chiếc ô gấp trang nhã từ Bộ sưu tập Trang phục Ấn tượng Ayaka của Kamisato, được trang trí bằng hoa văn đặc trưng của Ayaka trên váy và biểu tượng gia tộc của Gia tộc Kamisato"
+    },
+    {
+      "id": 3,
+      "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691310370/uploads/pxdbyny0ysnwk08y9bng.webp",
+      "category": "3",
+      "name": "test",
+      "price": 333333,
+      "text": "test text"
+    },
+    {
+      "id": 4,
+      "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691378127/uploads/pxid8wwr2ijvtz5h6fth.webp",
+      "category": "4",
+      "name": "thanhAsmr",
+      "price": 2322323,
+      "text": "thanhAsmr"
+    },
+    {
+      "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691378376/uploads/fasdn76jpavgxpxxxwxk.webp",
+      "category": "",
+      "name": "San pham cua toi",
+      "price": 33333333,
+      "text": "San pham cua toi",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "cateName": "category 1"
+    },
+    {
+      "id": 2,
+      "cateName": "category 2"
+    },
+    {
+      "id": 3,
+      "cateName": "category 3"
+    },
+    {
+      "id": 4,
+      "cateName": "category 4"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "tests1",
+      "email": "email@gmail.com",
+      "password": "testpassword"
+    },
+    {
+      "id": 2,
+      "username": "tests2",
+      "email": "email2@gmail.com",
+      "password": "test2password"
+    },
+    {
+      "username": "thanhnguyen",
+      "email": "thanhnguyen@gmail.com",
+      "password": "thanhnguyen",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "username": "ronaldo7",
+      "email": "ronaldo7@gmail.com",
+      "userId": "2",
+      "products": [
+        {
+          "id": 1,
+          "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691226870/uploads/ijp8ivftpgklkb0mwd1l.webp",
+          "category": "1",
+          "name": "Slime Series: Dessert Themed Stress Relief Knead Toy",
+          "price": 200000,
+          "text": "Some cute Slime knead toys in dessert theme coming with all Genshin Elements – good for relieving pressure simply by squeezing one of them!",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691310050/uploads/dnn5nn8g9qnb5g8gwirx.webp",
+          "category": "2",
+          "name": "[Preorder] Kamisato Ayaka Impression Folding Umbrella (Aug 2023)",
+          "price": 3232222,
+          "text": "Chiếc ô gấp trang nhã từ Bộ sưu tập Trang phục Ấn tượng Ayaka của Kamisato, được trang trí bằng hoa văn đặc trưng của Ayaka trên váy và biểu tượng gia tộc của Gia tộc Kamisato",
+          "quantity": 1
+        }
+      ],
+      "address": "Hưng Hà\nThái Bình",
+      "phone": "01234564545",
+      "state": 3,
+      "id": 1
+    },
+    {
+      "username": "messi10",
+      "email": "messi10@gmail.com",
+      "userId": "3",
+      "products": [
+        {
+          "id": 1,
+          "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691226870/uploads/ijp8ivftpgklkb0mwd1l.webp",
+          "category": "1",
+          "name": "Slime Series: Dessert Themed Stress Relief Knead Toy",
+          "price": 200000,
+          "text": "Some cute Slime knead toys in dessert theme coming with all Genshin Elements – good for relieving pressure simply by squeezing one of them!",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691310050/uploads/dnn5nn8g9qnb5g8gwirx.webp",
+          "category": "2",
+          "name": "[Preorder] Kamisato Ayaka Impression Folding Umbrella (Aug 2023)",
+          "price": 3232222,
+          "text": "Chiếc ô gấp trang nhã từ Bộ sưu tập Trang phục Ấn tượng Ayaka của Kamisato, được trang trí bằng hoa văn đặc trưng của Ayaka trên váy và biểu tượng gia tộc của Gia tộc Kamisato",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "image": "http://res.cloudinary.com/dkyhn68qq/image/upload/v1691310370/uploads/pxdbyny0ysnwk08y9bng.webp",
+          "category": "3",
+          "name": "test",
+          "price": 333333,
+          "text": "test text",
+          "quantity": 1
+        }
+      ],
+      "address": "Hưng Hà\nThái Bình",
+      "phone": "03666222881",
+      "state": 2,
+      "id": 2
+    }
+  ]
+}
